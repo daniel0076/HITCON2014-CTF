@@ -6,12 +6,12 @@ Hitcon-CTF scripts
 
 ###### there are just prototypes and sometimes cause problems
 
-* ## extractor:
+* ## extractor.py:
 
 	this is a auto extractor for multi-layered compressed files
 
 	it can auto extract it
 
-* ## extractor:
+* ## diff.py:
 
 	this is a script to diff two file byte by byte
