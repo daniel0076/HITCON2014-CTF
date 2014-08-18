@@ -15,3 +15,7 @@ Hitcon-CTF scripts
 * ## diff.py:
 
 	this is a script to diff two file byte by byte
+
+* ## rsa.py:
+
+	for rsaha question, but is bugfull, useless
